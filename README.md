@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to-nl-Jeonhyun's%20Github%20render&fontSize=50&customColorList=2"/>
 </div>
 
-<h3 align="center">🌟 Programming 🌟</h3>
+<h3 align="center">🌟 Skills 🌟</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
