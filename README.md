@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to-nl-Jeonhyun's%20Github%20render&fontSize=50&customColorList=0,2,2,2,2,3"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to-nl-Jeonhyun's%20Github%20render&fontSize=50&customColorList=0"/>
 </div>
 
 <h3 align="center">🌟 Programming 🌟</h3>
