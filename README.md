@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </picture>
 </div>  
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img width="100%" height="270" src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=high-contrast&hide_border=true"/>
   </a>
