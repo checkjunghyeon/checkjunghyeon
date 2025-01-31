@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 <br>
 <h3>👌 Stats 👌</h3>
 <hr width=100% noshade />
-<div align="center">
+<!-- div align="center" -->
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=checkjunghyeon&layout=donut&show_icons=true&theme=dark"
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=180 width="22%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true" />
 </picture>
 
 <picture>
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=180 width="25%" align="center" src="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true" />
 </picture>
 </div>  
 
