@@ -48,9 +48,10 @@ Here are some ideas to get you started:
 </div>  
 <br>
 
-<h3>🌟 Skills 🌟</h3>
-<hr style="border: solid 1px white" width=100% noshade />
-<div align="center">
+<!-- <h3>🌟 Skills 🌟</h3>
+<hr style="border: solid 1px white" width=100% noshade /> -->
+<h3 style="padding: 0.6em 0.5em 0.6em 0.5em; margin: 0.5em 0em; color: #000; border-left: 10px solid #0f2443; border-bottom: 2px solid #e5e5e5; font-weight: bold;" data-ke-size="size23">🌟 Skills 🌟</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
@@ -58,7 +59,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />&nbsp
@@ -68,7 +69,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3 style="padding: 0.6em 0.5em 0.6em 0.5em; margin: 0.5em 0em; color: #000; border-left: 10px solid #0f2443; border-bottom: 2px solid #e5e5e5; font-weight: bold;" data-ke-size="size23">Contact 📫</h3>
-<div align="left">
+<div align="center">
   <!-- <h3> 📫 Contact 📫</h3> -->
   <a href="https://dvlhyeon248.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-8B89CC?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
