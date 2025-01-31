@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <h3>👌 Stats 👌</h3>
-<hr style="border: solid 1px white" width=100% noshade />
+<hr width=100% noshade />
 <div align="left">
 <picture>
   <source
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3>🌟 Skills 🌟</h3>
-<hr style="border: solid 1px white" width=100% noshade />
+<hr width=100% noshade />
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3>📫 Contact 📫</h3>
-<hr style="border: solid 1px grey" width=100% noshade />
+<hr width=100% noshade />
 <div align="left">
   <a href="https://dvlhyeon248.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-8B89CC?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
