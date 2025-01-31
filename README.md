@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<h3>🌟 📫 Contact 📫</h3>
-<hr style="border: solid 1px white" width=100% noshade />
-<div align="center">
+<h3 style="padding: 0.6em 0.5em 0.6em 0.5em; margin: 0.5em 0em; color: #000; border-left: 10px solid #0f2443; border-bottom: 2px solid #e5e5e5; font-weight: bold;" data-ke-size="size23">Contact 📫</h3>
+<div align="left">
+  <!-- <h3> 📫 Contact 📫</h3> -->
   <a href="https://dvlhyeon248.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-8B89CC?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
