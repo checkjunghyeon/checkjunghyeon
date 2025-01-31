@@ -48,14 +48,14 @@ Here are some ideas to get you started:
 <!-- div style="display: flex; justify-content: center; align-items: center; width: 100%;"--->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=checkjunghyeon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=39%"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=checkjunghyeon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38%"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=39%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38%" />
 </picture>
 
 <picture>
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <br>
 <br>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width=94% src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%"/>
+    <img width=94% src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=95%"/>
   </a>
 <!--/div-->  
 
