@@ -19,8 +19,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to-nl-Junghyeon's%20Github&fontSize=50&customColorList=2"/>
 </div>
 
-
-<h3 align="center">👌 Stats 👌</h3>
+<h3>👌 Stats 👌</h3>
 <hr width=”500” color="white" noshade />
 <div align="center">
 <picture>
