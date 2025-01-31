@@ -49,6 +49,16 @@ Here are some ideas to get you started:
 </picture>
 </div>  
 
+
+<h3>🎈 Activity </h3>
+<hr width=100% noshade />
+<br>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=github&hide_border=true"/>
+  </a>
+</div>
+
 <br>
 <br>
 <h3>🌟 Skills 🌟</h3>
@@ -89,12 +99,3 @@ Here are some ideas to get you started:
 </a-->
   </div>  
 <br>
-
-<h3>🎈 Activity </h3>
-<hr width=100% noshade />
-<br>
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=github&hide_border=true"/>
-  </a>
-</div>
