@@ -56,5 +56,5 @@ Here are some ideas to get you started:
   </div>  
 <br>
 
-[![JungHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=checkjunghyeon)](https://github.com/checkjunghyeon/github-readme-stats)
+[![JungHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=checkjunghyeon)](https://github.com/checkjunghyeon/github-readme-stats&show_icons=true&theme=radical)
 
