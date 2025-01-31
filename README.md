@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to-nl-Junghyeon's%20Github&fontSize=40&customColorList=2"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to-nl-Junghyeon's%20Github&fontSize=40&customColorList=2"/>
 </div>
 
 <br>
