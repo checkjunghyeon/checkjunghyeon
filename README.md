@@ -48,10 +48,10 @@ Here are some ideas to get you started:
   <img height=180 width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true" />
 </picture>
 </div>  
-
+<br>
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img height=250 width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=high-contrast&hide_border=true"/>
+    <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=high-contrast&hide_border=true"/>
   </a>
 </div>
 
