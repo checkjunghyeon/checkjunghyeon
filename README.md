@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to-nl-Junghyeon's%20Github&fontSize=50&customColorList=2"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to-nl-Junghyeon's%20Github&fontSize=40&customColorList=2"/>
 </div>
 
 <br>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=high-contrast&bg_color=20232a&hide_border=true&line=FFFFFF&color=58A6FF" width=100%/>
+    <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=high-contrast&bg_color=20232a&hide_border=true" width=100%/>
 </a>
 </div>
 <br>
