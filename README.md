@@ -60,14 +60,14 @@ Here are some ideas to get you started:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56%"
+    srcset="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=57%"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=57%" />
 </picture>
 
 <br>
