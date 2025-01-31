@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<h3>🌟 Skills 🌟</h3>
+<h3>🔶Skills</h3>
 <hr width=100% noshade />
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 
 <br>
 
+<h3>🔶Tools</h3>
+<hr width=100% noshade />
+<div align="left">
 <div align="left">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp
@@ -40,7 +43,7 @@ Here are some ideas to get you started:
 <br>
 
 <br>
-<h3>👌 Stats 👌</h3>
+<h3>🔶Stats</h3>
 <hr width=100% noshade />
 <!-- div style="display: flex; justify-content: center; align-items: center; width: 100%;"--->
 <picture>
@@ -75,7 +78,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<h3>📫 Contact 📫</h3>
+<h3>📫Contact</h3>
 <hr width=100% noshade />
 <div align="left">
   <a href="https://dvlhyeon248.tistory.com/">
