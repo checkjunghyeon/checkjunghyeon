@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to-nl-Junghyeon's%20Github&fontSize=50&customColorList=2"/>
 </div>
 
+<br>
+<br>
 <h3>👌 Stats 👌</h3>
 <hr width=100% noshade />
 <div align="left">
@@ -48,6 +50,7 @@ Here are some ideas to get you started:
 </div>  
 <br>
 
+<br>
 <h3>🌟 Skills 🌟</h3>
 <hr width=100% noshade />
 <div align="left">
@@ -67,6 +70,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+<br>
 <h3>📫 Contact 📫</h3>
 <hr width=100% noshade />
 <div align="left">
