@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+<br>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width=94% src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=95%"/>
+  </a>
+  
+<br>
 <h3>🔶Skills</h3>
 <hr width=100% noshade />
 <div align="left">
@@ -69,12 +75,6 @@ Here are some ideas to get you started:
   />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56%" />
 </picture>
-
-<br>
-<br>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width=94% src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=95%"/>
-  </a>
 <!--/div-->  
 
 <br>
