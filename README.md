@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true" />
+  <img height=200 width=45% src="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true" />
 </picture>
 
 <picture>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true" />
+  <img height=200 width=45% src="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true" />
 </picture>
 </div>  
 <br>
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3 style="padding: 0.6em 0.5em 0.6em 0.5em; margin: 0.5em 0em; color: #000; border-left: 10px solid #0f2443; border-bottom: 2px solid #e5e5e5; font-weight: bold;" data-ke-size="size23">Contact 📫</h3>
-<div align="center">
+<div align="left">
   <!-- <h3> 📫 Contact 📫</h3> -->
   <a href="https://dvlhyeon248.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-8B89CC?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
