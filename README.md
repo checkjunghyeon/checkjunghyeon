@@ -53,6 +53,8 @@ Here are some ideas to get you started:
     <img
       src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>&nbsp
   </a>
-  </div>
-  
+  </div>  
 <br>
+
+[![JungHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=checkjunghyeon)](https://github.com/checkjunghyeon/github-readme-stats)
+
