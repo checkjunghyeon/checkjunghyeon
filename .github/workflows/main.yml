@@ -11,15 +11,14 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrub@0.6.0
+      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: secrets.TOKEN
-          USERNAME: checkjunghyeon
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          USERNAME: ${{ github.checkjunghyeon }}
       - name: Commit & Push
-        run:
+        run: |
           git config user.name checkjunghyeon
-          git config user.email wjdgus12@kyonggi.ac.kr
-          git remote set-url origin https://githuhb.com/checkjunghyeon/checkjunghyeon.git
+          git config user.email https://githuhb.com/checkjunghyeon/checkjunghyeon.git
           git add -A .
           git commit -m "generated"
-          git push https://@github.com/checkjunghyeon/checkjunghyeon.git
+          git push
