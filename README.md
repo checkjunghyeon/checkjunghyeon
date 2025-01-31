@@ -38,24 +38,6 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://dvlhyeon248.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-8B89CC?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:wjdgus21@kyonggi.ac.kr">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
-  </a>
-  <a href="https://www.linkedin.com/in/%EC%A0%95%ED%98%84-%EC%B5%9C-368051312/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
-  </a>
-  <a href="https://www.instagram.com/dvl.hyun_/">
-    <img
-      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>&nbsp
-  </a>
-  </div>  
-<br>
-
 <div align="center">
 <picture>
   <source
@@ -82,4 +64,22 @@ Here are some ideas to get you started:
 </picture>
 </div>  
 <br>
+<br>
 
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://dvlhyeon248.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-8B89CC?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:wjdgus21@kyonggi.ac.kr">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
+  </a>
+  <a href="https://www.linkedin.com/in/%EC%A0%95%ED%98%84-%EC%B5%9C-368051312/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
+  </a>
+  <a href="https://www.instagram.com/dvl.hyun_/">
+    <img
+      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>&nbsp
+  </a>
+  </div>  
+<br>
