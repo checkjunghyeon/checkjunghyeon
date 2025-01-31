@@ -19,9 +19,10 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to-nl-Junghyeon's%20Github&fontSize=50&customColorList=2"/>
 </div>
 
-<h3>👌 Stats 👌</h3>
-<hr style="border: solid 1px white" width=100% noshade />
-<div align="center">
+<!-- <h3>👌 Stats 👌</h3>
+<hr style="border: solid 1px white" width=100% noshade /> -->
+<h3 style="border-left: 10px solid #fe3e64; border-bottom: 2px solid #fe3e64; border-top: 10px solid #fff; background: #fff; color: #fe3e64; font-weight: bold; margin: 0.5em 0em; padding: 0.2em 1em 0.4em 0.5em; border-radius: 0px 0px 0px 0px;" data-ke-size="size23">👌 Stats 👌</h3>
+<div align="left">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=checkjunghyeon&layout=donut&show_icons=true&theme=dark"
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true" />
 </picture>
 
 <picture>
