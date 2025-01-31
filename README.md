@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 </picture>
 </div>  
 
-<div>
+<div align="left">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=react-dark&bg_color=20232a&hide_border=true&line=FFFFFF&color=58A6FF" width=100%/>
+    <img height=300 src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=high-contrast&bg_color=20232a&hide_border=true&line=FFFFFF&color=58A6FF" width=100%/>
 </a>
 </div>
 <br>
