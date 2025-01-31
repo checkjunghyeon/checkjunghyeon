@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<br>
 <h3>👌 Stats 👌</h3>
 <hr width=100% noshade />
 <div align="left">
