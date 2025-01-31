@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <h3>👌 Stats 👌</h3>
-<hr style="border: solid 2px white" width=100% noshade />
+<hr style="border: solid 1px white" width=100% noshade />
 <div align="center">
 <picture>
   <source
@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 </div>  
 <br>
 
-<h3 align="center">🌟 Skills 🌟</h3>
+<h3>🌟 Skills 🌟</h3>
+<hr style="border: solid 1px white" width=100% noshade />
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
@@ -57,7 +58,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp
@@ -67,7 +67,8 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3>🌟 📫 Contact 📫</h3>
+<hr style="border: solid 1px white" width=100% noshade />
 <div align="center">
   <a href="https://dvlhyeon248.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-8B89CC?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
