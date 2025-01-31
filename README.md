@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <h3>👌 Stats 👌</h3>
-<hr style="border: solid 10px white" width=70% noshade />
+<hr style="border: solid 2px white" width=100% noshade />
 <div align="center">
 <picture>
   <source
