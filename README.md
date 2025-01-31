@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 <h3>👌 Stats 👌</h3>
 <hr width=100% noshade />
-<div align="left">
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=checkjunghyeon&layout=donut&show_icons=true&theme=dark"
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="150%" height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=high-contrast&hide_border=true"/>
+    <img width="100%" height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=high-contrast&hide_border=true"/>
   </a>
 </div>
 
