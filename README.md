@@ -69,9 +69,6 @@ Here are some ideas to get you started:
 </picture>
 </div>  
 
-
-<h3>🎈 Activity </h3>
-<hr width=100% noshade />
 <br>
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
