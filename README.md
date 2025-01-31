@@ -56,9 +56,16 @@ Here are some ideas to get you started:
   </div>  
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]()]()
 
 <div align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=checkjunghyeon&layout=donut&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+</picture>
+</div>  
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true&theme=dark"
