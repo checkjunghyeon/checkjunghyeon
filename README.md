@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to-nl-Junghyeon's%20Github&fontSize=40&customColorList=2"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Welcome%20to-nl-Junghyeon's%20Github&fontSize=40&customColorList=2"/>
 </div>
 
 <br>
@@ -48,12 +48,6 @@ Here are some ideas to get you started:
   <img height=210 width=49% align="center" src="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true" />
 </picture>
 </div>  
-<br>
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=github&hide_border=true"/>
-  </a>
-</div>
 
 <br>
 <br>
@@ -95,3 +89,12 @@ Here are some ideas to get you started:
 </a-->
   </div>  
 <br>
+
+<h3>🎈 Activity </h3>
+<hr width=100% noshade />
+<br>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=github&hide_border=true"/>
+  </a>
+</div>
