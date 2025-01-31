@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true" />
 </picture>
 
 <picture>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 width=50% src="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=checkjunghyeon&show_icons=true" />
 </picture>
 </div>  
 <br>
@@ -68,7 +68,8 @@ Here are some ideas to get you started:
 <br>
 
 <h3>📫 Contact 📫</h3>
-<hr style="border: solid 1px white" width=100% noshade />
+<!-- hr style="border: solid 1px white" width=100% noshade /-->
+---
 <div align="left">
   <a href="https://dvlhyeon248.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-8B89CC?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
