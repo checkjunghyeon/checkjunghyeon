@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width=100% height=300 align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=high-contrast&hide_border=true"/>
+    <img width=49% height=200 align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=high-contrast&hide_border=true"/>
   </a>
 </div>
 <br>
