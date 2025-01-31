@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Welcome%20to-nl-Junghyeon's%20Github&fontSize=40&customColorList=2"/>
 </div>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <br>
 <h3>💫Skills</h3>
 <hr width=100% noshade />
