@@ -1,0 +1,25 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrub@0.7.1
+        env:
+          GITHUB_TOKEN: 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
+          USERNAME: checkjunghyeon
+      - name: Commit & Push
+        run:
+          git config user.name checkjunghyeon
+          git config user.email wjdgus12@kyonggi.ac.kr
+          git remote set-url origin https://githuhb.com/checkjunghyeon/checkjunghyeon.git
+          git add -A .
+          git commit -m "generated"
+          git push https://@github.com/checkjunghyeon/checkjunghyeon.git
