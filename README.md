@@ -19,9 +19,8 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to-nl-Junghyeon's%20Github&fontSize=50&customColorList=2"/>
 </div>
 
-<!-- <h3>👌 Stats 👌</h3>
-<hr style="border: solid 1px white" width=100% noshade /> -->
-<h3 style="border-left: 10px solid #fe3e64; border-bottom: 2px solid #fe3e64; border-top: 10px solid #fff; background: #fff; color: #fe3e64; font-weight: bold; margin: 0.5em 0em; padding: 0.2em 1em 0.4em 0.5em; border-radius: 0px 0px 0px 0px;" data-ke-size="size23">👌 Stats 👌</h3>
+<h3>👌 Stats 👌</h3>
+<hr style="border: solid 1px white" width=100% noshade />
 <div align="left">
 <picture>
   <source
@@ -49,9 +48,8 @@ Here are some ideas to get you started:
 </div>  
 <br>
 
-<!-- <h3>🌟 Skills 🌟</h3>
-<hr style="border: solid 1px white" width=100% noshade /> -->
-<h3 style="padding: 0.6em 0.5em 0.6em 0.5em; margin: 0.5em 0em; color: #000; border-left: 10px solid #0f2443; border-bottom: 2px solid #e5e5e5; font-weight: bold;" data-ke-size="size23">🌟 Skills 🌟</h3>
+<h3>🌟 Skills 🌟</h3>
+<hr style="border: solid 1px white" width=100% noshade />
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
@@ -69,9 +67,9 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<h3 style="padding: 0.6em 0.5em 0.6em 0.5em; margin: 0.5em 0em; color: #000; border-left: 10px solid #0f2443; border-bottom: 2px solid #e5e5e5; font-weight: bold;" data-ke-size="size23">Contact 📫</h3>
+<h3>📫 Contact 📫</h3>
+<hr style="border: solid 1px white" width=100% noshade />
 <div align="left">
-  <!-- <h3> 📫 Contact 📫</h3> -->
   <a href="https://dvlhyeon248.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-8B89CC?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
