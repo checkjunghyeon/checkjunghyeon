@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=300 width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true" />
+  <img height=200 width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=checkjunghyeon&show_icons=true" />
 </picture>
 
 <picture>
