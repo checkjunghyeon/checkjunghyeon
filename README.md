@@ -50,15 +50,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="100%" height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=high-contrast&hide_border=true"/>
+    <img width="150%" height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=checkjunghyeon&theme=high-contrast&hide_border=true"/>
   </a>
 </div>
 
 <br>
 <br>
 <h3>🌟 Skills 🌟</h3>
-<hr width=100% noshade />
-
 <hr width=100% noshade />
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
