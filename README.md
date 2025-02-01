@@ -1,20 +1,3 @@
-<!-- Hi there 👋 -->
-
-<!--
-**checkjunghyeon/checkjunghyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Welcome%20to-nl-Junghyeon's%20Github&fontSize=40&customColorList=2"/>
 </div>
@@ -32,15 +15,14 @@ Here are some ideas to get you started:
   </h3>
 </div>
 
-
   <!-- a href="https://www.linkedin.com/in/%EC%A0%95%ED%98%84-%EC%B5%9C-368051312/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
   </a-->
   <!--a href="https://www.instagram.com/dvl.hyun_/">
     <img
       src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>&nbsp
-  </a-->
-  </div>  
+  </a>
+  </div-->  
 <br>
 
 ## 💫Skills
