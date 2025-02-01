@@ -19,26 +19,30 @@ Here are some ideas to get you started:
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Welcome%20to-nl-Junghyeon's%20Github&fontSize=40&customColorList=2"/>
 </div>
 
-<h3>📫Contact</h3>
-<hr width=100% noshade />
+### 🖐️Hi I'm interested in ML, CV, and RL with mobile robots. 
+
 <div align="left">
-  <a href="https://dvlhyeon248.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-8B89CC?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:wjdgus21@kyonggi.ac.kr">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
-  </a>
+  <h3> 📫Feel free to contact me via: &nbsp
+    <a href="mailto:wjdgus21@kyonggi.ac.kr">
+      <img height="23" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    </a>
+    <a href="https://dvlhyeon248.tistory.com/">
+      <img height="23" src="https://img.shields.io/badge/Tistory-8B89CC?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
+    </a> 
+  </h3>
+</div>
+
+
   <!-- a href="https://www.linkedin.com/in/%EC%A0%95%ED%98%84-%EC%B5%9C-368051312/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
   </a-->
   <!--a href="https://www.instagram.com/dvl.hyun_/">
     <img
       src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>&nbsp
-</a-->
+  </a-->
   </div>  
 <br>
 
-<br>
 <h3>💫Skills</h3>
 <hr width=100% noshade />
 <div align="left">
@@ -51,7 +55,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" />&nbsp
 </div>
-<br>
 
 <br>
 <h3>📊Stats</h3>
