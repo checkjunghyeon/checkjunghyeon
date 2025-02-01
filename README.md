@@ -7,14 +7,13 @@
 <div align="left">
   <h3> 📫Feel free to contact me via &nbsp
     <a href="mailto:wjdgus21@kyonggi.ac.kr">
-      <img height="23" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      <img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
     </a>
     <a href="https://dvlhyeon248.tistory.com/">
-      <img height="23" src="https://img.shields.io/badge/Tistory-8B89CC?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
+      <img height="25" src="https://img.shields.io/badge/Tistory-8B89CC?style=for-the-badge&logo=tistory&logoColor=white"/>&nbsp
     </a> 
   </h3>
 </div>
-
   <!-- a href="https://www.linkedin.com/in/%EC%A0%95%ED%98%84-%EC%B5%9C-368051312/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
   </a-->
@@ -36,13 +35,21 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" />&nbsp
 </div>
+
 <br>
 
-## 📜My Papers
-- 📄 [목표 기반 시각적 이동 작업을 위한 시각적 맥락정보 임베딩과 교착상태 처리](https://doi.org/10.5302/J.ICROS.2023.22.0153) - 2023.01, Journal of ICROS(JICRS)
-- 📄 [멀티모달 맥락정보 융합에 기초한 다중 물체 목표 시각적 탐색 이동](https://doi.org/10.3745/KTSDE.2023.12.9.407) - 2023.09, Journal of KIPS(KTSDE)
-- 📄 [다중 물체 시각적 탐색 이동을 위한 목표 물체 그라운딩과 멀티모달 지도 작성](https://doi.org/10.5302/J.ICROS.2024.23.0217) - 2024.06, Journal of ICROS(JICRS)
+## 🎓My Papers
+- 📄 [물체 자세 추정기를 이용한 지능형 로봇의 테이블 정리 서비스 개발](https://doi.org/10.5302/J.ICROS.2023.22.0153) - 2022.06, KIIT Conference
+- 📄 [목표 기반 시각적 이동 작업을 위한 시각적 맥락정보 임베딩과 교착상태 처리](https://doi.org/10.5302/J.ICROS.2023.22.0153) - 2023.01, Journal of ICROS (JICRS)
+- 📄 [멀티모달 맥락정보 융합에 기초한 다중 물체 목표 시각적 탐색 이동](https://doi.org/10.3745/KTSDE.2023.12.9.407) - 2023.09, Journal of KIPS (KTSDE)
+- 📄 [다중 물체 시각적 탐색 이동을 위한 목표 물체 그라운딩과 멀티모달 지도 작성](https://doi.org/10.5302/J.ICROS.2024.23.0217) - 2024.06, Journal of ICROS (JICRS)
 - 📄 [언어-기반 제로-샷 물체 목표 탐색 이동 작업들을 위한 인공지능 기저 모델들의 활용](https://doi.org/10.7746/jkros.2024.19.3.293) - 2024.08, Journal of KROS (JKROS)
+
+<br>
+
+## 🖥️My Projects
+- 🤖 [Jaco 로봇을 활용한 Pick & Place](#)
+- 🤖 [Jackal 로봇을 활용한 제로-샷 실내 순회·감시 서비스 개발](#)
 
 <br>
 
