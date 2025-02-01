@@ -43,8 +43,7 @@ Here are some ideas to get you started:
   </div>  
 <br>
 
-<h3>💫Skills</h3>
-<hr width=100% noshade />
+## 💫Skills
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
@@ -55,11 +54,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" />&nbsp
 </div>
+<br>
+
+## 📜My Papers
+- 📄 [목표 기반 시각적 이동 작업을 위한 시각적 맥락정보 임베딩과 교착상태 처리](https://doi.org/10.5302/J.ICROS.2023.22.0153) - 2023.01, Journal of ICROS(JICRS)
+- 📄 [멀티모달 맥락정보 융합에 기초한 다중 물체 목표 시각적 탐색 이동](https://doi.org/10.3745/KTSDE.2023.12.9.407) - 2023.09, Journal of KIPS(KTSDE)
+- 📄 [다중 물체 시각적 탐색 이동을 위한 목표 물체 그라운딩과 멀티모달 지도 작성](https://doi.org/10.5302/J.ICROS.2024.23.0217) - 2024.06, Journal of ICROS(JICRS)
+- 📄 [언어-기반 제로-샷 물체 목표 탐색 이동 작업들을 위한 인공지능 기저 모델들의 활용](https://doi.org/10.7746/jkros.2024.19.3.293) - 2024.08, Journal of KROS (JKROS)
 
 <br>
-<h3>📊Stats</h3>
-<hr width=100% noshade />
-<!-- div style="display: flex; justify-content: center; align-items: center; width: 100%;"--->
+
+## 📊Stats
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=checkjunghyeon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38%"
