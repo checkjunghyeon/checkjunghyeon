@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 🖐️Hi I'm interested in ML, CV, and RL with mobile robots. 
 
 <div align="left">
-  <h3> 📫Feel free to contact me via: &nbsp
+  <h3> 📫Feel free to contact me via &nbsp
     <a href="mailto:wjdgus21@kyonggi.ac.kr">
       <img height="23" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
     </a>
