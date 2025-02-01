@@ -48,7 +48,6 @@
 <br>
 
 ## 🖥️My Projects
-- 🤖 [Jaco 로봇을 활용한 Pick & Place](https://github.com/checkjunghyeon/Pick-Place.git)
 - 🤖 [Jackal 로봇을 활용한 제로-샷 실내 순회·감시 서비스 개발](https://github.com/checkjunghyeon/Patrol_Service.git)
 
 <br>
