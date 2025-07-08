@@ -49,10 +49,10 @@
 
 ## 🖥️Projects
 - 🤖 [Jackal 로봇을 활용한 제로-샷 실내 순회·감시 서비스 개발](https://github.com/checkjunghyeon/Patrol_Service.git)
-- 🤖 [두산 ROKEY 지능-1 파이널 프로젝트](https://github.com/checkjunghyeon/C3_Turtlebot4_Nav.git)
-- 🤖 [두산 ROKEY 협동-1 파이널 프로젝트](https://github.com/checkjunghyeon/Convenience-store-chef.git)
-- 🤖 [두산 ROKEY 지능-2 파이널 프로젝트](https://github.com/checkjunghyeon/Fitomi_Assist_AI_Cobot.git)
-- 🤖 [두산 ROKEY 협동-3 파이널 프로젝트](https://github.com/checkjunghyeon/DigitalTwin_AutoDriving.git)
+- 🤖 [두산 ROKEY 지능-1 파이널 프로젝트](https://github.com/checkjunghyeon/C3_Turtlebot4_Nav.git) (2025.05.09 ~ 05.22)
+- 🤖 [두산 ROKEY 협동-1 파이널 프로젝트](https://github.com/checkjunghyeon/Convenience-store-chef.git) (2025.05.23 ~ 06.05)
+- 🤖 [두산 ROKEY 협동-2 파이널 프로젝트](https://github.com/checkjunghyeon/Fitomi_Assist_AI_Cobot.git) (2025.06.09 ~ 06.20)
+- 🤖 [두산 ROKEY 협동-3 파이널 프로젝트](https://github.com/checkjunghyeon/DigitalTwin_AutoDriving.git) (2025.06.23 ~ 07.04)
   
 <br>
 
