@@ -39,7 +39,7 @@
 <br>
 
 ## 🎓Papers
-- 📄 [물체 자세 추정기를 이용한 지능형 로봇의 테이블 정리 서비스 개발](https://doi.org/10.5302/J.ICROS.2023.22.0153) - 2022.06, KIIT Conference
+- 📄 [물체 자세 추정기를 이용한 지능형 로봇의 테이블 정리 서비스 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11082645) - 2022.06, KIIT Conference
 - 📄 [목표 기반 시각적 이동 작업을 위한 시각적 맥락정보 임베딩과 교착상태 처리](https://doi.org/10.5302/J.ICROS.2023.22.0153) - 2023.01, Journal of ICROS (JICRS)
 - 📄 [멀티모달 맥락정보 융합에 기초한 다중 물체 목표 시각적 탐색 이동](https://doi.org/10.3745/KTSDE.2023.12.9.407) - 2023.09, Journal of KIPS (KTSDE)
 - 📄 [다중 물체 시각적 탐색 이동을 위한 목표 물체 그라운딩과 멀티모달 지도 작성](https://doi.org/10.5302/J.ICROS.2024.23.0217) - 2024.06, Journal of ICROS (JICRS)
